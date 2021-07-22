@@ -1,4 +1,4 @@
-# A started template for React with typescript, eslint, prettier, airbnb style guide configured
+# A starter template for React with typescript, eslint, prettier, airbnb style guide configured
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
