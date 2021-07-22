@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A started template for React with typescript, eslint, prettier, airbnb style guide configured
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,6 +13,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `yarn run lint`
+
+checks all linting rules, shows error,warning if any
+
+### `yarn run format`
+
+Runs prettier against all files, formats according to the rules mentioned.
+
+### `yarn run isready`
+
+Formats all the files using prettier and checks for linting errors, if no issues will run build command to generate final build.
 
 ### `yarn test`
 
